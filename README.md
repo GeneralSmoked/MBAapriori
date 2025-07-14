@@ -17,7 +17,9 @@ The dataset contains transactional records, where each row represents a single p
 📌 Note: Please refer to Kaggle’s license for any data-sharing or distribution restrictions.
 
 🛠️ Technologies Used
+
 Python 
+
 pandas – Data loading and cleaning
 
 mlxtend – Apriori algorithm and association rule generation
